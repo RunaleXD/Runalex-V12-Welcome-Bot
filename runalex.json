@@ -1,0 +1,14 @@
+{
+    "ayarlar": {
+        "OwnerID": [""], 
+        "Durum": "Runalex Welcome",
+        "SunucuID": "",
+        "SesKanal": "",
+        "EnAltYetkili": ""
+    },
+    "Ses": {
+        "Kayıtsızgirdi": "ses/hosgeldin.mp3",
+        "YetkiliGirdi": "ses/yetkili.mp3"
+    },
+    "TOKEN": ""
+} 
